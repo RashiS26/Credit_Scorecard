@@ -26,9 +26,10 @@ To build a machine learning system that predicts the probability of a borrower d
 ---
 
 ## Project Structure
-- `src/` — Jupyter notebooks for each phase + Streamlit app
+- `notebook/` — Jupyter notebook 
 - `output/models/` — Trained model files
 - `output/plots/` — Generated charts and visualizations
+- `app.py` - Deployed app
 
 ## How to Run
 pip install -r requirements.txt
